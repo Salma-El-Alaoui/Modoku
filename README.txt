@@ -1,0 +1,1 @@
+modoku est une applet qui permet de faire une partie de Boggle, puis résout la grille.
